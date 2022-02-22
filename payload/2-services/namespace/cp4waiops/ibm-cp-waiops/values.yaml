@@ -1,0 +1,9 @@
+"cluster": "default"
+"cp_waiops_imagePullSecret": "ibm-entitlement-key"
+"cp_waiops_namespace": "cp4waiops"
+"cp_waiops_storageClass": "ibmc-file-gold-gid"
+"cp_waiops_storageClassLargeBlock": "ibmc-file-gold-gid"
+"image": "quay.io/ibmgaragecloud/cli-tools"
+"imageTag": "v0.15"
+"region": "default"
+
